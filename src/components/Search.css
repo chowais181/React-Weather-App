@@ -10,6 +10,7 @@
 @media screen and (max-width: 400) {
   .search__container {
     padding-top: 64px;
+    width:auto;
     margin: 0 auto;
     background-color: transparent;
     font-family: "Raleway", sans-serif;
