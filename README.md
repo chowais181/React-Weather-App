@@ -1,7 +1,3 @@
-![Project Display](w1.png)
-
----
-
 # React Weather Application
 
 ## Find the current weather of the current location
