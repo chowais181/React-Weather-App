@@ -12,7 +12,7 @@
 <img src="/src/assets/w2.png"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
-Live Demo on [Netlify](https://myweatherforecastt.netlify.app/).
+Live Demo on [Weather App](https://myweatherforecastt.netlify.app/).
 
 ---
 
