@@ -12,7 +12,7 @@
 <img src="/src/assets/w2.png"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
-Live Demo on [Netlify](https://monitor-weather.netlify.app).
+Live Demo on [Netlify](https://6304c96b1036c078a02fdfa1--magenta-queijadas-6dff7c.netlify.app/).
 
 ---
 
